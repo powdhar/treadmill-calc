@@ -90,7 +90,6 @@ body {
 /* Button styles */
 .button-group {
     display: flex;
-    justify-content: space-between;
     gap: 1rem;
     margin-top: 1rem;
     padding-left: 2.5rem;
