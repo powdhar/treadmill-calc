@@ -60,6 +60,10 @@ body {
     margin-top: 1.5rem;
 }
 
+input, select, textarea{
+    color: #fcf1ba;
+}
+
 .input-group {
     flex: 1;
 }
